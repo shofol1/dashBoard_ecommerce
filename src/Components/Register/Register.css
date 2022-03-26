@@ -1,0 +1,13 @@
+.register_form {
+  margin-left: 30%;
+}
+input {
+  display: block;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  width: 30%;
+  padding: 10px;
+}
+.btn {
+  padding: 10px 40px;
+}
